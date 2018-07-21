@@ -1,1 +1,1 @@
-# Dicionrio com Arvore AVL em c
+# Dicionário com Arvore AVL em c
